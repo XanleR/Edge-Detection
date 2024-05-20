@@ -1,0 +1,21 @@
+﻿  temalab.cpp
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(12,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(32,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(33,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(35,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(44,54): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(44,54): warning C4244:         with
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(44,54): warning C4244:         [
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(44,54): warning C4244:             _Tp=uchar
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(44,54): warning C4244:         ]
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(58,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(111,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(125,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(130,12): warning C4101: 'j': unreferenced local variable
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(150,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(153,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(312,31): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(312,18): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(353,35): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\OpenCV_Test\temalab.cpp(353,22): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  OpenCV_Test.vcxproj -> C:\Users\dani2\Documents\BME-VIK\5.felev\Témalab\Témalab_Project\x64\Debug\Témalab_Project.exe
